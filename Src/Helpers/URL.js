@@ -3,7 +3,7 @@ export const API = {
     baseURL: 'https://stas.services/',
   };
 
-  export const API_KEY = "AIzaSyBs8S9q90Y0qJPDPs15ODvWmStENTMZmRQ";
+  export const API_KEY = "";
   
   export const APIEndPoints = {
     login: 'api/login',
